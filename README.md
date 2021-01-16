@@ -19,6 +19,5 @@
       <li> <a href="EDUCATION.html">EDUCATION</a> </li>
     </ul>
     <strong>ABC</strong>
-    <p> "style=margin-top:40px;">Big data<p>
   </body>
 </html>
